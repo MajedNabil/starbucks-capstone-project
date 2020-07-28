@@ -16,6 +16,8 @@ Before getting into the installation, here's the files breakdown:
 Now, to preview the project, you can just preview the HTML version. In order to run it, please consider downloading the jupyter notebook, alongside both **data** and **data_frames** folders in the same directory in the machine. 
 # Important Notes 
 While I was executing the project, I realized that while processing the `transcript` dataframe, I took me so much to run the code (i.e., the code takes more than 10 minutes to run; due to the large size of the dataframe). So I decided to **pickle** and **save** the models, so that if you want to do a quick check, you don't wait as I waited. However, if you feel like you want to execute the functions, you can please follow the instructions I've put in the cells. 
+
+You can check my blog post on Medium for the project, by clicking (here)[https://medium.com/@majed.engineers/how-to-predict-customers-against-your-promotions-the-starbucks-promotions-case-study-ed13e811f073]
 # Problem Statement
 Promotions are very important approach to attract new customers and keep old customers loyal to the brand. It’s a win-to-win situation for both the customer and the company. The customer gets the benifit of getting a discount or someting for free, which lets the customer be bounded more to the brand, and always tried new merchants.
 
